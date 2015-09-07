@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Huge interests in data mining and its applications
+Working on Recommendation systems now
+From Rwanda,living in Tokyo
 
-### More Information
+### fav Quotes 
+'Fear of Unknown is more dangerous than the Unkown itself!'
 
-A place to include any other types of information that you'd like to include about yourself.
+
+ 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[here](mailto:eliemagambo@gmail.com)
+
