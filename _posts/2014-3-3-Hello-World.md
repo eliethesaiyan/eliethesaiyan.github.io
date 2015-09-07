@@ -17,5 +17,4 @@ Well, As you could guess,this was my first post,testing markdown and Jekyll.I ho
 **JA MATTA**
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
