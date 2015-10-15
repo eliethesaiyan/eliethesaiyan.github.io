@@ -37,7 +37,7 @@
     <div id="main" role="main" class="container">
       {{ content }}
       <div id="sidebar" class="span2">
-          {% for post in site.posts % }
+          {% for post in site.posts %}
           {% assign currentdate = post.date | date: "%Y" %}
           {% if currentdate != date %}
           <li id="y{{currentdate}}">{{currentdate}}</li>
