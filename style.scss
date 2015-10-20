@@ -24,9 +24,9 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 0 auto auto 0;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 10px auto 0;
   width: 100%;
 }
 
@@ -134,7 +134,7 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
+    content: "";
     display: table;
 }
 
@@ -281,6 +281,31 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.sidebar{
+ 
+ padding: 2rem 1rem;
+ color: rgba(255,255,255,.5);
+ background-color:$sidebarcolor;
+}
+
+
+@media (mini-width: 48em){
+    .sidebar {
+        position:fixed;
+        top: 0;
+        bottom: 0;
+        left:  0;
+        width: 0;
+        text-align:left;
+    }
+}
+
+.main-content{ 
+margin:0;
+padding-left: 0rem;
+float:right;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
