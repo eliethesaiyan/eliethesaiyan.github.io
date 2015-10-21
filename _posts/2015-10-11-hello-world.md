@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  Hello Jekyll,Github Pages world
+category: general
+tag: [jekyll]
 ---
 
 i`ve never seen importance of blogging(I read many blogs) until the day i realized that not only blogging is to communicate and get feedback with/from others but also one of the best way to keep some of your best hacks well designed and organized for further consultation.
