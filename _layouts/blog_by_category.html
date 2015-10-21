@@ -16,7 +16,7 @@ layout: default
                     <h3>{{ post_year }}</h3><div class="list-group">
                     {% endif %}
             
-            {%if forloop.first==false %}
+            {%if forloop.first == false %}
                 {% assign previous_index=forloop.index0 | minus: 1 %}
                 {% capture previous_post_year %}{{ site.categories[page.category][previous_index].date |date: '%Y' }} {% endcapture %}
                 {% if post_year != previous_post_year %}

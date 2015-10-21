@@ -1,0 +1,8 @@
+- slug: general
+  name: General
+  color: '#3498db'
+
+
+- slug: linux
+  name: Linux
+  color: '#1abc9d'
