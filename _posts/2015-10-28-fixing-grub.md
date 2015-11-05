@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  Hello Jekyll,Github Pages world
-category: general
+category: linux 
 tags: [jekyll]
 ---
 
