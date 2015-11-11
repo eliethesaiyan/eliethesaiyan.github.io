@@ -6,3 +6,8 @@
 - slug: linux
   name: Linux
   color: '#1abc9d'
+
+
+- slug: programming
+  name: Programming
+  color: '#3w94db'

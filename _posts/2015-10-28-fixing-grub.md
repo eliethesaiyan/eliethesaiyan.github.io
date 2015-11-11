@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Hello Jekyll,Github Pages world
+title:  Fixing grub
 category: linux 
-tags: [jekyll]
+tags: [grub]
 ---
 
 I`ve never given a thought about blogging (I read many blogs) until I realized that I need a way to keep
