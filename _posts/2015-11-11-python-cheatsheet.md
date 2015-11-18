@@ -9,6 +9,7 @@ I decided to compile a cheatsheet  of useful links that helped me to undestarnd 
 The links are mostly answers to questions similar to ones i had that includes some examples as well.
 
 * [ instantiating class variables](http://stackoverflow.com/questions/2681243/how-should-i-declare-default-values-for-instance-variables-in-python) .
+* [ Misspelling __init__ or indenting it wrongly](http://stackoverflow.com/questions/26653401/typeerror-object-takes-no-parameters-but-only-in-python-3) .
 
 
 I will keep updating the list. 
