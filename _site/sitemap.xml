@@ -17,7 +17,7 @@
     <lastmod>2015-10-11T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>http://eliethesaiyan.github.io/404.html</loc>
+    <loc>http://eliethesaiyan.github.io/404</loc>
   </url>
   <url>
     <loc>http://eliethesaiyan.github.io/about/</loc>
@@ -43,4 +43,16 @@
   <url>
     <loc>http://eliethesaiyan.github.io/:blog/tag/python/</loc>
   </url>
+    <url>
+      <loc>http://eliethesaiyan.github.io/hello-world</loc>
+    </url>
+    <url>
+      <loc>http://eliethesaiyan.github.io/fixing-grub</loc>
+    </url>
+    <url>
+      <loc>http://eliethesaiyan.github.io/python-cheatsheet</loc>
+    </url>
+    <url>
+      <loc>http://eliethesaiyan.github.io/essence-of-learning</loc>
+    </url>
 </urlset>

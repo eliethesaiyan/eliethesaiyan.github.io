@@ -16,15 +16,17 @@ He left me with his phone and went to play pool with some other friends while i 
 Long story short i did pass level 14 and continued to other levels which little by little became more easier because i was getting used to the game.He kept checking which level i was on until i reached 34 which was where we started.He joined and also contributed to the play ,within 2 min we had already figured out how to pass it and it was fairly simple considering how  hard it seemed before we played it.&lt;/p&gt;
 
 &lt;p&gt;Well,what struck me the most during this phase is how starting with easy level helped a lot in solving a complex cases(Complex is relative,maybe easy for you!).
-I am a kind of person who like to jump preliminaries and go straight to the main problem but after having this experience i realized how starting fairly easy would drastically change how you understand the big picture of anything you want to learn.I also noticed how motivated i became when i passed each level.
-I bet for some people this is just a default procedure,take a task put it into small steps and solve one by one(I do it too but not in learnings something new) but some  others they just want to make sure once the work starts,it gets done as soon as possible which lead them to spend a lot of time and fair amount of energy that could be saved if it was done in small steps.
+I am a kind of person who like to jump preliminaries and go straight to the main problem but after having this experience i realized how starting fairly easy would drastically change how you understand the big picture of anything you want to learn.I also noticed how motivated i became when i passed each level.&lt;/p&gt;
+
+&lt;p&gt;I bet for some people this is just a default procedure,take a task put it into small steps and solve one by one(I do it too but not in learnings something new) but some  others they just want to make sure once the work starts,it gets done as soon as possible which lead them to spend a lot of time and fair amount of energy that could be saved if it was done in small steps.
 My learning style is like the latter, if i want to learn chapter 3,i will take a glance at chapter one,read chapter two and study chapter three  which leads me to go back and forth  to chapter 2 and also chapter 1 with also fair amount of googling.
-I guess this experience was an eye opening for me on how i should attack enormous task.
-Its not bad to dedicate your strength to something but its very important to understand that there are things that take time no matter how hard or  bad you want to accomplish them and learning something is one of them.Once you fully go through the whole process of doing something correctly it will be  easy to go through  them over again and build on top of your past experience and mistakes to attempt even more complex tasks.&lt;/p&gt;
+I guess this experience was an eye opening for me on how i should attack enormous task.&lt;/p&gt;
 
-&lt;p&gt;Well, As you could guess,this was my first post,testing markdown and Jekyll.I hope to write about my experience with Jekyll/Github Pages soon.&lt;/p&gt;
+&lt;p&gt;Its not bad to dedicate your strength to something but its very important to understand that there are things that take time no matter how hard or  bad you want to accomplish them and learning something is one of them.Once you fully go through the whole process of doing something correctly it will be  easy to go through  them over again and build on top of your past experience and mistakes to attempt even more complex tasks.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;JA MATTA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Last but not least,if it wasn&lt;code&gt;t for that guy i wouldn&lt;/code&gt;t even know that the game exist even if i knew about it would have been more difficult to play it alone;here i am trying to make an analogy to having a mentor in what we do.We all need someone to guide us through our baby steps.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sayonara&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Mar 2016 00:00:00 +0900</pubDate>
         <link>http://eliethesaiyan.github.io/essence-of-learning</link>
@@ -52,20 +54,8 @@ The links are mostly answers to questions similar to ones i had that includes so
     
       <item>
         <title>Fixing grub</title>
-        <description>&lt;p&gt;I&lt;code&gt;ve never given a thought about blogging (I read many blogs) until I realized that I need a way to keep
-some of my hacks well organized for further reading. I always end up forgetting how I fixed something or
-losing some of the best references I’ve seen on the internet. I guessed the best way to deal with those
-two issues I ALWAYS get is to blog about them so I could keep coming to check on them and hopefully, you,
-yes, you!!! You will give me an honest feedback. I decided that I will settle with [Github Pages]
-(http://pages.github.com) and Jekyll mostly because they  were  highly recommended by
-[Quora Programming Community] (http://www.quora.com/Whats-the-best-blogging-platform-for-programmers)
-and I also wanted to overcome my laziness of learning how to  use markdown. After googling for a while
-I realized that to have a decent blog won&lt;/code&gt;t just only be a wrapping text with markdown synthax but will
-also templating [The Jekyll Way], for simplicity reasons, I gave a try [Barry Clark] 
-(http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/] tutorials on how to get started
-with Jekyll and GitHub pages. I found it to be simple and easy but as everything else, it requires
-attention if you want your pages to be rendered. Well as you could guess, this was my first post,
-testing markdown and Jekyll. I hope to write about my experience with Jekyll/GitHub pages soon (or never).&lt;/p&gt;
+        <description>&lt;p&gt;In December 2015 i ve broken my laptop dual boot installation due to broken system depencies caused by shifting location.For those familiar with ubuntu,i  over messed with sources.list file and i couldn`t track some of the changes i ve made and ended up loosing the bootloader of of my laptop.
+I got luck recovering it was pretty easy.I booted on live CD&lt;/p&gt;
 
 &lt;p&gt;JA MATTA&lt;/p&gt;
 </description>

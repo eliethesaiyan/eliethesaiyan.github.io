@@ -12,10 +12,7 @@ permalink: /about/
 ### fav Quotes 
 'Fear of Unknown is more dangerous than the Unkown itself!'
 
-#### NB: I OFTEN MISS TO TYPE SOME WORDS,I HOPE IT WILL BE FUN FOR YOU TO FILL THE GAPS(honestly i dont why and can`t be fixed)
- 
-
 ### Contact me
 
-[here](mailto:eliemagambo@gmail.com)
+[here](mailto :eliemagambo at gmail kom)
 
