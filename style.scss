@@ -27,9 +27,11 @@ body {
   margin: 0 auto  0;
   max-width: 740px;
   padding: 0 10px auto 0;
-  width: 100%;
 }
 
+.footer-container {
+  width: 100%!important;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -273,6 +275,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
+  width:100%;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;

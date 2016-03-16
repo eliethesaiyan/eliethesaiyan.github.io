@@ -14,5 +14,5 @@ permalink: /about/
 
 ### Contact me
 
-[here](mailto :eliemagambo at gmail kom)
+[here](mailto:eliemagambo@gmail.com)
 

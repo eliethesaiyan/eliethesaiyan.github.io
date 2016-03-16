@@ -3,7 +3,8 @@
 *.swn
 *.swo
 *.swm
+*.sw*
 *.scssc
 *.scssc
 *.swl
-
+_site/
