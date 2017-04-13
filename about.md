@@ -9,8 +9,9 @@ permalink: /about/
 * From Rwanda,living in Tokyo
 * Member of [@yamanalab](http://www.yama.info.waseda.ac.jp/) and [@kLabRw](http://klab.rw/)
 
-### fav Quotes 
-'Fear of Unknown is more dangerous than the Unkown itself!'
+### Publications
+[Predicting User Reaction to recommended Items in Job Advertisement](https://www.researchgate.net/publication/315044202_Predicting_User_Reaction_to_Recommended_Items_In_Job_Advertisement)
+ 
 
 ### Contact me
 
