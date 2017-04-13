@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 * Working on Deep learning projects@[LeapMind](http://leapmind.io) 
-* Masters in Computer Science  @[Waseda University] (http://www.waseda.jp/en),2017
+* Masters in Computer Science  @[Waseda University](http://www.waseda.jp/en) April,2017
 * Interests in software engineering,  Machine learning and its applications
 * Worked on Recommendation systems 
 * From Rwanda,living in Tokyo
