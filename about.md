@@ -13,7 +13,8 @@ permalink: /about/
 ### Publications
 [Predicting User Reaction to recommended Items in Job Advertisement](https://www.researchgate.net/publication/315044202_Predicting_User_Reaction_to_Recommended_Items_In_Job_Advertisement)
  
-
+### Favourite Quotes
+    "Chains of habit are too light to be felt  until they are heavy to be broken" Warren Buffet
 ### Contact me
 
 [here](mailto:eliemagambo@gmail.com)
