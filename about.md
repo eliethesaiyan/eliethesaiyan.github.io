@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-* Doing Masters in parallel and Distributed systems @[Waseda University](http://www.waseda.jp/en)
-* Huge interests in data mining and its applications
-* Working on Recommendation systems 
+* Working on Deep learning projects@[LeapMind](http://leapmind.io) 
+* Masters in Computer Science  @[Waseda University] (http://www.waseda.jp/en),2017
+* Interests in software engineering,  Machine learning and its applications
+* Worked on Recommendation systems 
 * From Rwanda,living in Tokyo
 * Member of [@yamanalab](http://www.yama.info.waseda.ac.jp/) and [@kLabRw](http://klab.rw/)
 
